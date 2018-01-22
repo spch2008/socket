@@ -44,7 +44,7 @@ int main(int argc, char *argv[])
 
     //memset(buf, 0, 20);
     //read(sfd, buf, sizeof(buf));
-    //printf("read < %s > from server\n", buf);
+    //printf("read < %s > from server\n", buf);nbnmbnm
 
     return 0;
 }
